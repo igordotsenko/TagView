@@ -9,7 +9,7 @@
         android:id="@+id/tv_tag_item_contain"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:gravity="center"
+        android:gravity="center_vertical"
         android:ellipsize="none"
         android:singleLine="false"
         android:layout_weight="1"/>
